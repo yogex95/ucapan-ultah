@@ -93,7 +93,7 @@ button[type="submit"]:hover {
 }
 
 .one {
-  font-size: 4.5rem;
+  font-size: 4.3rem;
 }
 
 .two {
@@ -175,10 +175,10 @@ button[type="submit"]:hover {
 
 .six .hat {
   position: absolute;
-  left: 41.5%;
+  left: 45%;
   top: -35%;
   width: 60px;
-  rotate: 14deg;
+  rotate: -14deg;
 }
 
 .ballons img {
