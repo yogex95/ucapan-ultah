@@ -93,7 +93,7 @@ button[type="submit"]:hover {
 }
 
 .one {
-  font-size: 4.3rem;
+  font-size: 4.2rem;
 }
 
 .two {
@@ -176,7 +176,7 @@ button[type="submit"]:hover {
 .six .hat {
   position: absolute;
   left: 45%;
-  top: -35%;
+  top: -25%;
   width: 60px;
   rotate: -14deg;
 }
