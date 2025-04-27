@@ -92,6 +92,10 @@ button[type="submit"]:hover {
   position: absolute;
 }
 
+.greating {
+  font-size: 2.8rem
+}
+
 .one {
   font-size: 4.2rem;
 }
